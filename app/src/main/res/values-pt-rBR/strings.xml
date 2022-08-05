@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="img_desc_happy_woman">Mulher feliz</string>
+    <string name="login_hint_password">Senha</string>
+    <string name="login_tv_forgot_password">Esqueceu sua senha?</string>
+    <string name="login_btn_register">Registre-se</string>
+</resources>
