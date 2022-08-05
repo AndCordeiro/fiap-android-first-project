@@ -2,4 +2,8 @@
     <string name="app_name">Home</string>
     <string name="name">André Cordeiro de Oliveira</string>
     <string name="rm">345795</string>
+    <string name="img_desc_happy_woman">Happy woman</string>
+    <string name="img_desc_logo">Logo</string>
+
+    <string name="btn_nationality">Logo</string>
 </resources>
